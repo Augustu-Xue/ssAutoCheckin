@@ -27,4 +27,5 @@ SITE用于存放你要签到的机场的URL，需要注意格式，否则可能�
 
 # 版权声明
 
+
 此仓库照抄了一部分代码，来源:https://github.com/zhjc1124/ssr_autocheckin/blob/master/main.py
